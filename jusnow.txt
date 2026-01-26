@@ -1,3 +1,8 @@
 i'm  at jusnow for a training and learning 
 God bless moses
+<<<<<<< HEAD
 i'm the master here i wish to  contribute to the project
+=======
+i'm here to add new file to one
+i wish to add more line of code here
+>>>>>>> feature_mos_1
