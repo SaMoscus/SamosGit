@@ -1,2 +1,0 @@
-# SamosGit
-for my learning
